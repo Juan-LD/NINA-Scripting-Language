@@ -28,5 +28,5 @@ CLR 3
 ```
 I know, i know the code becomes more unreadable but i REALLY dont want to type out the full function :P
 
-> These are just tiny things on my mind
-  , you never know if its really coming or not...
+> These are just tiny things on my mind  
+  You never know if its really coming or not...
