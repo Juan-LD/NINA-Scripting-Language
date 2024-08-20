@@ -1,4 +1,7 @@
 # NINA-Scripting-Language
+
+---
+
 ### Small language that comunicates with the libraries in Living Delusion.
 
 So, this isnt really the finished version by any means and it also only works on Linux has of right now lol
@@ -26,4 +29,4 @@ CLR 3
 I know, i know the code becomes more unreadable but i REALLY dont want to type out the full function :P
 
 > These are just tiny things on my mind
-> You never know if its really comming or not...
+  You never know if its really comming or not...
